@@ -52,7 +52,7 @@ td{
 
 .here-isTXT{
     font-size: 25px;
-    word-spacing: 12px;
+    word-spacing: 10px;
     margin-top: 10px;
     margin-bottom: 0px;}
 
@@ -82,9 +82,12 @@ table{
     height: 110px;
     float: right;
     border: 1px solid;
+    border-spacing: 3px;
     margin-right: 0px;}
 
-.inTableTXT{vertical-align: bottom;}
+.inTableTXT{
+    vertical-align: bottom;
+    font-size: 17px;}
 
 .table_one{background-color: green;}
 
