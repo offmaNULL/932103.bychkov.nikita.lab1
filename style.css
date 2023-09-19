@@ -1,0 +1,109 @@
+header{
+    font-family: "Courier New", sans-serif;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    font-size: 18px;}
+
+footer{
+    background-color: green;
+    color: white;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin: 0;}
+
+body {margin: 0;}
+
+ul {
+    line-height: 30px;
+    margin-top: 0px;}
+
+a {color: red;}
+
+td{
+    text-align: center;
+    border: 1px solid;}
+
+.headingTXT{
+    margin-top: 15px;
+    margin-bottom: 5px;}
+
+.loremIpsumTXT{
+    font-size: 17px;
+    margin-bottom: 10px;
+    margin-top: 20px;}
+
+.main{
+    background-color: blue;
+    color: white;
+    font: 1em "Arial";
+    font-size: 18px;
+    padding: 1px 30px;
+    margin: 0 35%;}
+
+.csdLINK {
+    font-size: 18px;
+    text-align: center;}
+
+.hereTXT{color: red;}
+
+.here-isTXT{
+    font-size: 25px;
+    word-spacing: 12px;
+    margin-top: 10px;
+    margin-bottom: 0px;}
+
+.valueTXT{
+    line-height: 1.7;
+    font-size: 17px;
+    margin-bottom: 10px;}
+
+.value2TXT {
+    color: aqua;
+    letter-spacing: 6px;}
+
+.stylesTXT{
+    font-size:20px;
+    margin-top: 0px;
+    margin-bottom:10px;
+    word-spacing: 3px;}
+
+.square{
+    width: 100px;
+    height: 100px;
+    border: 5px solid;
+    border-radius: 15px 0 15px 0;
+    float: left;
+    margin: 0px;
+    margin-right: 20px;
+    margin-bottom: 28px;}
+
+table{
+    width: 150px;
+    height: 110px;
+    float: right;
+    border: 1px solid;
+    margin-right: 0px;}
+
+
+.table_one{background-color: green;}
+
+.table_seven{background-color: red;}
+
+.italicTXT{
+    margin-top :0px;
+    margin-bottom:10px;}
+
+.boldTXT{
+    margin-top :0px;
+    margin-bottom:10px;}
+
+.underlinedTXT{
+    margin-top :0px;
+    margin-bottom:10px;}
+
+.likeIMG{
+    float: right}
