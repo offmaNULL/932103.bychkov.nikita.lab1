@@ -65,11 +65,7 @@ td{
     color: aqua;
     letter-spacing: 6px;}
 
-.stylesTXT{
-    font-size:20px;
-    margin-top: 0px;
-    margin-bottom:10px;
-    word-spacing: 3px;}
+
 
 .square{
     width: 100px;
@@ -88,20 +84,19 @@ table{
     border: 1px solid;
     margin-right: 0px;}
 
+.inTableTXT{vertical-align: bottom;}
 
 .table_one{background-color: green;}
 
 .table_seven{background-color: red;}
 
-.italicTXT{
-    margin-top :0px;
-    margin-bottom:10px;}
+.stylesTXT{
+    font-size:20px;
+    margin-top: 0px;
+    margin-bottom:10px;
+    word-spacing: 3px;}
 
-.boldTXT{
-    margin-top :0px;
-    margin-bottom:10px;}
-
-.underlinedTXT{
+.styles_margin{
     margin-top :0px;
     margin-bottom:10px;}
 
